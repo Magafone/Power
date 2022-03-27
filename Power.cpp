@@ -8,7 +8,8 @@ int main ()
 
     for(long long i = 1; i <= n; i++)
     {
-        res *= a;
+        res *= 4;
+        res *= 4;
 
     }
     cout<<res;
